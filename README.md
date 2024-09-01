@@ -14,3 +14,4 @@ como subir cambios a git ?
 7 git commit -m " modifico pasos de git"
 
 modificacion Axel branch01 agregado
+conflicto
