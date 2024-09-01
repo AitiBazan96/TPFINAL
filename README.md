@@ -12,3 +12,5 @@ como subir cambios a git ?
 5 realizo cambios en la rama
 6 git add. (guarda los cambios)
 7 git commit -m " modifico pasos de git"
+
+modificacion Axel
